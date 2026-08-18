@@ -1,0 +1,6 @@
+# dependencies (local junction links into the DSH checkout's pnpm store)
+node_modules/
+
+# build artifacts
+*.tgz
+*.log

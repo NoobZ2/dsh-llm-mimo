@@ -1,0 +1,3 @@
+- insert:
+    - id: llm-mimo
+      name: '@dsh-external/dsh-llm-mimo'

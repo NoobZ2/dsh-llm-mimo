@@ -1,6 +1,6 @@
 {
   "name": "@dsh-external/dsh-llm-mimo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Xiaomi MiMo (api.xiaomimimo.com) provider for DeepSeek Harness: OpenAI-compatible chat completions with full-modal (image+text) support for mimo-v2.5, so read_image and uploaded images route to MiMo-V2.5.",
   "private": true,
   "type": "module",
